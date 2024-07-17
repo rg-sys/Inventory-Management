@@ -1,4 +1,4 @@
-# -Inventory-Management
+# Inventory-Management
 This is a web-based application for managing inventory, developed using PHP 7.3.33 and MySQL. The system allows users to manage products, categories, suppliers, and stock levels.
 ## Features
 - User authentication and authorization.
